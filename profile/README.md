@@ -1,7 +1,7 @@
 # Welcome to Web3 Astronaut 🎓👨🏽‍🚀🌸
 
 <a href="https://github.com/web3astronaut">
-<img src="./../assets/header.png" alt="Organization Header Image" />
+<img src="../assets/header.png" alt="Organization Header Image" />
 </a>
 
 ---
